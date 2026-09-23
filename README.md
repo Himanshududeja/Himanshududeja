@@ -6,8 +6,8 @@ Welcome to my GitHub profile — building, learning, and improving one commit at
 
 ## 🎓 About Me
 
-- 🎓 **B.Tech CSE @ BPIT (2023–2027)** — **GPA: 9.16**
-- 💡 Focused on **Data Structures & Algorithms (Java)**, **Frontend Development (React)**, and **Cloud Computing (AWS)**
+- 🎓 **B.Tech CSE @ BPIT (2023–2027)** — **GPA: 9.21**
+- 💡 Focused on **Data Structures & Algorithms (Java)**, **Full Stack Development (Next)**, and **Cloud Computing (AWS)**
 - 🧠 Strong interest in **problem-solving, scalable systems, and clean code**
 - 🔥 Passionate about **tech communities** and building **real-world projects**
 
@@ -24,6 +24,7 @@ Welcome to my GitHub profile — building, learning, and improving one commit at
 ---
 
 ### ⚡ Frameworks & Libraries
+- ⚛️ Next.js  
 - ⚛️ React.js  
 - 🟢 Node.js  
 - 🎨 Tailwind CSS  
@@ -48,7 +49,7 @@ Welcome to my GitHub profile — building, learning, and improving one commit at
 ---
 
 ## 🏆 Achievements
-- ⭐ **Solved 300+ DSA problems** across LeetCode & HackerRank  
+- ⭐ **Solved 500+ DSA problems** across LeetCode & HackerRank  
 - ⭐ **3★ HackerRank** in Problem Solving  
 
 ---
@@ -64,7 +65,7 @@ Welcome to my GitHub profile — building, learning, and improving one commit at
 
 ## 📈 Currently Working On
 - 🚀 Strengthening **DSA & development fundamentals**
-- 🌐 Building **frontend-focused web projects**
+- 🌐 Building **full stack web projects**
 - 🤖 Exploring **AI-powered and scalable applications**
 
 ---
